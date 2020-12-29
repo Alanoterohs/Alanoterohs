@@ -8,8 +8,9 @@ Actualmente afilo lo que es React en cuanto front-end, y express en el Back-end.
 
 Aparte tambíen realizo cosas en Haskell y C (Especialmente por la universidad).
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+Estoy abierto a propuestas:
+
+-[Linkedin](https://www.linkedin.com/in/alan-otero-184115191/)
 <!--
 **Alanoterohs/Alanoterohs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
