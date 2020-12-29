@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hola! 👋
+
+¡Hola! mi nombre es Alan, tengo 21 años.
+
+Mi camino en la programación y desarrollo comienza a mis 20 años, cuando ingresé a la carrera de Ciencias de la Computación donde mis primeros 'codeos' fueron en el paradigma funcional, especificamente en Haskell, y así fue que me entretuvo, me gustó, y me abrí a otros lenguajes como Js.
+
+Actualmente afilo lo que es React en cuanto front-end, y express en el Back-end.
+
+Aparte tambíen realizo cosas en Haskell y C (Especialmente por la universidad).
+
 
 <!--
 **Alanoterohs/Alanoterohs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
