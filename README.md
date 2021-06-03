@@ -8,8 +8,8 @@ Actualmente afilo lo que es React en cuanto front-end, y express en el Back-end.
 
 Aparte tambíen realizo cosas en Haskell y C (Especialmente por la universidad).
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alanoterohs&repo=convoychat" />
+<a href="https://github.com/alanoterohs/convoychat">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alanoterohs&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 <p align="center" >
