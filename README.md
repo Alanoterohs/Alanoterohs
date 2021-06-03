@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente trabajo con el stack PERN
 
-- 👨‍💻 Todos mis proyectos están listados aquí: <a href="https://github.com/alanoterohs">-Proyectos-</a>
+- 👨‍💻 Todos mis proyectos están listados aquí: <a href="https://github.com/Alanoterohs/linksProyectos">-Proyectos-</a>
 
 - 🌱 Actualmente aprendiendo Python
 
