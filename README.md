@@ -8,20 +8,22 @@
 
 - 🌱 Actualmente aprendiendo Python
 
-### 🛠 &nbsp;Lenguajes
+### 🛠 Lenguajes
 
 **Pure Javascript**
 
-![Javascript]("https://img.shields.io/badge/JavaScript-181824?style=for-the-badge&logo=javascript&logoColor=F7DF1E")
+![Javascript](https://img.shields.io/badge/JavaScript-181824?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-**Stack PERN**
-![Postgresql]("https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white")
-![Express.js]("https://img.shields.io/badge/Express.js-161B22?style=for-the-badge")
-![React.js]("https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js]("https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white")
+**Stack PERN** 
+
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-161B22?style=for-the-badge)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Otros**
-![Python]("https://img.shields.io/badge/Python-0f3491?style=for-the-badge&logo=python&logoColor=white")
+
+![Python](https://img.shields.io/badge/Python-0f3491?style=for-the-badge&logo=python&logoColor=white)
 
 ### ⚙️ GitHub Analytics
 
