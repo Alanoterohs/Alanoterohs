@@ -1,4 +1,4 @@
-## Desarrollador FullStack
+<h1> FullStack Developer </h1>
 
 ¡Hola! mi nombre es Alan, tengo 21 años.
 
@@ -7,6 +7,8 @@ Mi camino en la programación y desarrollo comienza a mis 20 años, cuando ingre
 Actualmente afilo lo que es React en cuanto front-end, y express en el Back-end.
 
 Aparte tambíen realizo cosas en Haskell y C (Especialmente por la universidad).
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?alanoterohs=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Estoy abierto a propuestas:
 
