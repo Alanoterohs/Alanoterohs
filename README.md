@@ -8,7 +8,7 @@ Actualmente afilo lo que es React en cuanto front-end, y express en el Back-end.
 
 Aparte tambíen realizo cosas en Haskell y C (Especialmente por la universidad).
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?alanoterohs=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alanoterohs)](https://github.com/anuraghazra/github-readme-stats)
 
 Estoy abierto a propuestas:
 
