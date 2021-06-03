@@ -1,4 +1,4 @@
-<h1> FullStack Developer </h1>
+<h1 align="center" > FullStack Developer </h1>
 
 ¡Hola! mi nombre es Alan, tengo 21 años.
 
@@ -8,7 +8,15 @@ Actualmente afilo lo que es React en cuanto front-end, y express en el Back-end.
 
 Aparte tambíen realizo cosas en Haskell y C (Especialmente por la universidad).
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alanoterohs)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alanoterohs&repo=convoychat" />
+</a>
+
+<p align="center" >
+<a href="https://www.linkedin.com/in/alanoterohs/"><img src="https://img.shields.io/badge/-AlanOtero-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:alanoterohs@gmail.com"><img src="https://img.shields.io/badge/-alanoterohs@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
 
 Estoy abierto a propuestas:
 
