@@ -1,30 +1,27 @@
-<h1 align="center" > ¡Hey! Soy Alan </h1>
+<h1 align="center" > ¡Hey! Soy Alan 😄 </h1>
 
-<h2 align="center" > Full Stack Developer </h2>
+<h2 align="center" > Full Stack Developer 🛠 </h2>
 
 - 🔭 Actualmente trabajo con el stack PERN
+
 - 👨‍💻 Todos mis proyectos están listados aquí: <a href="https://github.com/alanoterohs">-Proyectos-</a>
+
 - 🌱 Actualmente aprendiendo Python
 
-### 🛠 Lenguajes
+### 🛠 &nbsp;Lenguajes
 
-<p align = "center">
-  <h3>Pure Javascript</h3>
-  <img src="https://img.shields.io/badge/JavaScript-181824?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</p>
+**Pure Javascript**
 
-<p align = "center" >
-  <h3>Stack PERN</h3>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-161B22?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
+![Javascript]("https://img.shields.io/badge/JavaScript-181824?style=for-the-badge&logo=javascript&logoColor=F7DF1E")
 
-<p>
-  <h3>Otros</h3> 
-  <img src="https://img.shields.io/badge/Python-0f3491?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+**Stack PERN**
+![Postgresql]("https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white")
+![Express.js]("https://img.shields.io/badge/Express.js-161B22?style=for-the-badge")
+![React.js]("https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js]("https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white")
+
+**Otros**
+![Python]("https://img.shields.io/badge/Python-0f3491?style=for-the-badge&logo=python&logoColor=white")
 
 ### ⚙️ GitHub Analytics
 
@@ -40,7 +37,7 @@
 
 ### 🤝🏻 Contactame
   
-<p align="center" >
+<p>
   <a href="https://www.linkedin.com/in/alanoterohs/"><img src="https://img.shields.io/badge/-AlanOtero-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:alanoterohs@gmail.com"><img src="https://img.shields.io/badge/-alanoterohs@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
